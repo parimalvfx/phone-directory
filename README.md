@@ -1,3 +1,7 @@
+# Phone Directory Application
+
+Subscribers based phone directory application with the functionalities of adding a subscriber, deleting a subscriber, and showing all subscribers details.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
